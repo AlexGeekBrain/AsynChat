@@ -1,0 +1,32 @@
+{
+    "orders": [
+        {
+            "item": "printer",
+            "quantity": "1",
+            "price": "16000",
+            "buyer": "Сидоров А.А,",
+            "date": "01.01.2023"
+        },
+        {
+            "item": "scanner",
+            "quantity": "2",
+            "price": "10000",
+            "buyer": "Petrov P.P.",
+            "date": "02.02.2023"
+        },
+        {
+            "item": "монитор",
+            "quantity": "3",
+            "price": "20000",
+            "buyer": "Иванов И.И.",
+            "date": "04.04.2023"
+        },
+        {
+            "item": "мышка",
+            "quantity": "4",
+            "price": "6000",
+            "buyer": "Sobolev A.V.",
+            "date": "05.05.2023"
+        }
+    ]
+}
