@@ -1,0 +1,62 @@
+2023-04-20 12:19:46,281 - CRITICAL - server - Не указан адрес который будет слушать сервер 
+2023-04-20 12:32:08,306 - CRITICAL - server - Не указан адрес который будет слушать сервер 
+2023-04-20 12:34:06,654 - CRITICAL - server - Не указан адрес который будет слушать сервер 
+2023-04-20 12:36:42,904 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-20 12:36:50,119 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1681983410.1180959, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-20 12:40:23,607 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-20 12:40:25,859 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1681983625.8588681, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-20 12:40:27,784 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1681983627.7846518, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-20 12:40:29,136 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1681983629.1358814, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-20 12:43:01,768 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-20 12:43:04,043 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1681983784.043272, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-27 18:27:27,755 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-27 18:27:37,182 - INFO - server - Вызов функции get_response с агрументами (({'action': 'presence', 'time': 1682609257.1821702, 'user': {'account_name': 'Alex', 'status': 'Hi!'}},), {}) 
+2023-04-27 18:27:37,188 - INFO - server - Функция get_response вызвана из функции main 
+2023-04-27 18:27:37,188 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1682609257.1821702, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-27 18:35:41,959 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-27 18:35:44,292 - INFO - server - Вызов функции get_response с агрументами (({'action': 'presence', 'time': 1682609744.2919755, 'user': {'account_name': 'Alex', 'status': 'Hi!'}},), {}) 
+2023-04-27 18:35:44,297 - INFO - server - Функция get_response вызвана из функции main 
+2023-04-27 18:35:44,298 - DEBUG - server - Разбор сообщений от клиента: {'action': 'presence', 'time': 1682609744.2919755, 'user': {'account_name': 'Alex', 'status': 'Hi!'}} 
+2023-04-28 17:09:57,333 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 17:47:58,463 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 17:51:46,278 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 17:52:03,703 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 17:56:46,847 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 18:12:19,937 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 18:26:09,721 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 18:55:52,044 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:02:46,573 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:04:42,582 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:04:53,167 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:05:05,713 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:05:38,810 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:27:07,824 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:29:08,333 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:55:31,925 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:58:06,538 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 19:58:11,307 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682701091.1112568, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 46912)>), {}) 
+2023-04-28 19:58:11,329 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 19:58:22,485 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682701102.2891746, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51800)>), {}) 
+2023-04-28 19:58:22,486 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 19:58:52,939 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682701132.7442539, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49638)>), {}) 
+2023-04-28 19:58:52,940 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 19:59:42,579 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:00:37,134 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:00:39,856 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682701239.6614277, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 33232)>), {}) 
+2023-04-28 20:00:39,878 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 20:17:07,338 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:17:11,170 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682702230.97581, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59318)>), {}) 
+2023-04-28 20:17:11,193 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 20:19:13,794 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682702353.5996103, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50468)>), {}) 
+2023-04-28 20:19:13,795 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 20:19:39,752 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682702379.5581572, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 39532)>), {}) 
+2023-04-28 20:19:39,753 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 20:20:44,236 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:22:52,265 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:24:09,297 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:26:21,574 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:26:59,657 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682702819.4627457, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59826)>), {}) 
+2023-04-28 20:26:59,678 - INFO - server - Функция client_message вызвана из функции main 
+2023-04-28 20:31:04,847 - INFO - server - Сервер запущен на порту: 7777 
+2023-04-28 20:32:27,259 - INFO - server - Вызов функции client_message с агрументами (({'action': 'presence', 'time': 1682703147.0544806, 'user': {'account_name': 'Alex'}}, [], <socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49278)>), {}) 
+2023-04-28 20:32:27,281 - INFO - server - Функция client_message вызвана из функции main 
